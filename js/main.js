@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#fullpage').fullpage({
-        sectionsColor: ['#2C3E50', '#E74C3C', '#ECF0F1', '#3498DB'],
+        sectionsColor: ['#27ae60', '#ecf0f1', '#2ecc71', '#d35400'],
         anchors:['main', 'about', 'how', 'contact']
     });
 });
